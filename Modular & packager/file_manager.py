@@ -75,7 +75,7 @@ def menu():
             read_file()
         elif choice  == "4":
             add_to_file()
-        elifchoice  == "5":
+        elif choice  == "5":
             break
         else:
             print("Invalid choice!")
